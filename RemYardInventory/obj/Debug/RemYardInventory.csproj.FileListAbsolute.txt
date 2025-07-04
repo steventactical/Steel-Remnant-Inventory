@@ -1,0 +1,19 @@
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.exe.config
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.exe
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.pdb
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.Form1.resources
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.Properties.Resources.resources
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.csproj.GenerateResource.cache
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.exe
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.pdb
+C:\Users\slynch\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.csprojAssemblyReference.cache
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.exe.config
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.exe
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\bin\Debug\RemYardInventory.pdb
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.csproj.AssemblyReference.cache
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.Form1.resources
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.Properties.Resources.resources
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.csproj.GenerateResource.cache
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.csproj.CoreCompileInputs.cache
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.exe
+F:\Visual Studio\source\repos\RemYardInventory\RemYardInventory\obj\Debug\RemYardInventory.pdb
